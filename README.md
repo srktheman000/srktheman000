@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 👨‍💻 All of my projects are available at [sohankinage.me](sohankinage.me)
+- 👨‍💻 All of my projects are available at 
+- [sohankinage.me](sohankinage.e)
 
 - 📝 I regularly write articles on [https://medium.com/@srktheman](https://medium.com/@srktheman)
 
