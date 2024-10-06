@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Kinage</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **AI Project**
 
 - 👨‍💻 All of my projects are available at 
 - [sohankinage.me](sohankinage.e)
