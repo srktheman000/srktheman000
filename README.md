@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan Kinage</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI  developer from India</h3>
 
 - 🔭 I’m currently working on **AI Project**
 
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@srktheman](https://medium.com/@srktheman)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **sohan.kinage000@gmail.com**
 
