@@ -15,6 +15,9 @@
   <a href="https://medium.com/@srktheman" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="http://sohan-portfolio.s3-website.ap-south-1.amazonaws.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -25,6 +28,7 @@
 - 🧠 I specialize in **Generative AI, Agentic Workflows, LLM Applications & Full Stack Development**
 - 🏗️ Previously built full-stack products at **GeekyAnts** and developed scalable web apps at **TCS**
 - 💬 Ask me about **Python, LangChain, RAG, React, Next.js, FastAPI, System Design**
+- 🌐 Portfolio: **[sohan-portfolio](http://sohan-portfolio.s3-website.ap-south-1.amazonaws.com/)**
 - 📫 Reach me at **sohan.kinage000@gmail.com**
 - ⚡ Fun fact: **I love to trek!**
 
@@ -113,6 +117,7 @@
 I'm open to **consulting, freelance, and full-time opportunities** in AI Engineering, Agentic AI, and Full Stack Development. Let's create impact together!
 
 <p align="center">
+  <a href="http://sohan-portfolio.s3-website.ap-south-1.amazonaws.com/">🌐 Portfolio</a> •
   <a href="mailto:sohan.kinage000@gmail.com">📧 sohan.kinage000@gmail.com</a> •
   <a href="https://linkedin.com/in/sohankinage">💼 LinkedIn</a> •
   <a href="https://medium.com/@srktheman">📝 Medium</a>
